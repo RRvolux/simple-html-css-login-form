@@ -1,3 +1,3 @@
-# simple-html-css-login-form
+# simpleLoginForm/html
 loginForm/html
 
